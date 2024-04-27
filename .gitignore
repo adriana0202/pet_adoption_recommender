@@ -1,0 +1,14 @@
+.DS_Store
+.zshrc
+.env
+.pickle
+.jpg
+.jpeg
+.img
+
+#folders
+
+/given_images/
+/images/
+/Screenshots_for_ppt/
+
